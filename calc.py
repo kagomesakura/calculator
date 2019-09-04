@@ -15,7 +15,7 @@ print('4. Divide')
 
 # number choice depends on user input
 
-choice = input('Enter Choice(1, 2, 3, 4: ')
+choice = input('Enter Choice 1, 2, 3, 4: ')
 
 num1 = float(input('Enter First Number: '))
 num2 = float(input('Enter Second Number: '))
